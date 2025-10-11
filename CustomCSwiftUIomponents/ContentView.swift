@@ -14,6 +14,7 @@ struct ContentView: View {
             Text("Hello, Branch2!")
             Text("Hello, Branch1!")
             Text("Hello, Branch1!")
+            Text("Hello, NewFile!")
         }
         .padding()
     }
