@@ -14,6 +14,8 @@ struct ContentView: View {
             Text("bottom tabs")
             // bottom tabs
       
+            Text("Bottom, Tabs!")
+            Text("Top, Tabs!")
         }
         .padding()
     }
